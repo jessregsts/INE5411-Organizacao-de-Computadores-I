@@ -1,1 +1,1 @@
-Meu repositório da disciplina INE5411 - Organização de Computadores I.
+Repository for my INE5411 - Computer Architecture and Organization I classes.
